@@ -3,13 +3,14 @@ Nowadays,Covid19 cases details are spreading more from unauthentic sources to us
 which gives the live tracking covid 19 in India.<br>
 
 
-<B>🧰 Requirements</br>
+<B>🧰 Tools used</br>
 <ul>
   <li>Flask a python framework</li>
   <li>python</li>
   <li>Twillo account</li>
   <li> virtual environment</li>
   <li> working whatsup account</li>
+  <li> Heroku (Deployment)</li>
 </ul>
 
 <B> 📹 watch it live:<br>
