@@ -13,5 +13,4 @@ which gives the live tracking covid 19 in India.<br>
   <li> Heroku (Deployment)</li>
 </ul>
 
-<B> 📹 watch it live:<br>
-     https://youtu.be/LmvRCYEvWjg
+
