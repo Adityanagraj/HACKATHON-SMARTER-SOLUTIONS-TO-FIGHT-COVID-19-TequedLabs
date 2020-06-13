@@ -14,6 +14,8 @@ which gives the live tracking covid 19 in India.<br>
 </ul>
 
 
-<B> 📹 watch it live:<br>
+<B>📹 watch it live:<br>
      https://youtu.be/LmvRCYEvWjg
 
+<B>📊 presentation:<br>
+   https://docs.google.com/presentation/d/1UQ8nkgXWMeEdorHZvZzXG0V_iz-bchagn4qQUEhTajI/edit?usp=sharing
